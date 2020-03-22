@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "775c1bdcd95b89d451223e9548821e8a",
+    "revision": "0f589cea4d7fa38b06bfea76ab2d0014",
     "url": "/QuarantineSchedule/index.html"
   },
   {
