@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/QuaratineSchedule/static/css/main.bcf4357d.chunk.css",
-    "main.js": "/QuaratineSchedule/static/js/main.5dfd9bd6.chunk.js",
-    "main.js.map": "/QuaratineSchedule/static/js/main.5dfd9bd6.chunk.js.map",
-    "runtime-main.js": "/QuaratineSchedule/static/js/runtime-main.a5fc3a02.js",
-    "runtime-main.js.map": "/QuaratineSchedule/static/js/runtime-main.a5fc3a02.js.map",
-    "static/js/2.34b619dd.chunk.js": "/QuaratineSchedule/static/js/2.34b619dd.chunk.js",
-    "static/js/2.34b619dd.chunk.js.map": "/QuaratineSchedule/static/js/2.34b619dd.chunk.js.map",
-    "index.html": "/QuaratineSchedule/index.html",
-    "precache-manifest.855d2133be1a61cf469045364d299929.js": "/QuaratineSchedule/precache-manifest.855d2133be1a61cf469045364d299929.js",
-    "service-worker.js": "/QuaratineSchedule/service-worker.js",
-    "static/css/main.bcf4357d.chunk.css.map": "/QuaratineSchedule/static/css/main.bcf4357d.chunk.css.map",
-    "static/js/2.34b619dd.chunk.js.LICENSE.txt": "/QuaratineSchedule/static/js/2.34b619dd.chunk.js.LICENSE.txt"
+    "main.css": "/QuarantineSchedule/static/css/main.bcf4357d.chunk.css",
+    "main.js": "/QuarantineSchedule/static/js/main.83b27bea.chunk.js",
+    "main.js.map": "/QuarantineSchedule/static/js/main.83b27bea.chunk.js.map",
+    "runtime-main.js": "/QuarantineSchedule/static/js/runtime-main.289c430a.js",
+    "runtime-main.js.map": "/QuarantineSchedule/static/js/runtime-main.289c430a.js.map",
+    "static/js/2.34b619dd.chunk.js": "/QuarantineSchedule/static/js/2.34b619dd.chunk.js",
+    "static/js/2.34b619dd.chunk.js.map": "/QuarantineSchedule/static/js/2.34b619dd.chunk.js.map",
+    "index.html": "/QuarantineSchedule/index.html",
+    "precache-manifest.e726595f5b7948dc90a8705c118fbeb4.js": "/QuarantineSchedule/precache-manifest.e726595f5b7948dc90a8705c118fbeb4.js",
+    "service-worker.js": "/QuarantineSchedule/service-worker.js",
+    "static/css/main.bcf4357d.chunk.css.map": "/QuarantineSchedule/static/css/main.bcf4357d.chunk.css.map",
+    "static/js/2.34b619dd.chunk.js.LICENSE.txt": "/QuarantineSchedule/static/js/2.34b619dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5fc3a02.js",
+    "static/js/runtime-main.289c430a.js",
     "static/js/2.34b619dd.chunk.js",
     "static/css/main.bcf4357d.chunk.css",
-    "static/js/main.5dfd9bd6.chunk.js"
+    "static/js/main.83b27bea.chunk.js"
   ]
 }
